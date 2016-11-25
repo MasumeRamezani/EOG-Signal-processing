@@ -1,0 +1,3 @@
+EOG Processing
+----------------
+In this codes, we investigate eye movement analysis as a recent sensing modality for activity recognition. Eye movement data were recorded using an electrooculography (EOG) system. We first describe and evaluate algorithms for detecting three eye movement characteristics from EOG signals—saccades, fixations, and blinks—and propose a method for assessing repetitive patterns of eye movements. We then devise 4 different features for recognize the type of the movement.
